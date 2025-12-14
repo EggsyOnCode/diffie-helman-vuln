@@ -9,7 +9,7 @@ The user is unauthenticated, allowing Mallory to impersonate both parties.
 """
 
 import random
-from Diffie_helmen_implementation import is_primitive_root
+from implementation import is_primitive_root
 from sympy import isprime
 
 # -----------------------------
